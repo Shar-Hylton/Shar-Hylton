@@ -1,0 +1,129 @@
+/*ASSIGNMENT 2 - CREATE WEBPAGE FROM MOCKUP*/
+
+/*CLIENT COLOURS & FONTS
+Background: #e6e6e6;
+Header and Footer Black: #1b1b1b
+Navigation bar/sidebar/Overview box: white
+Accent blue: #5e9cae
+
+FONT-FAMILY is Helvetica, Arial, sans-serif;
+
+Width for main container should be 1000px.
+
+*/
+body{
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: #e6e6e6;
+}
+
+.heading, 
+footer{
+    background-color: #1b1b1b;
+}
+
+.heading{
+    display: flex;
+    align-items: center;
+}
+
+.logo{
+    flex: 1;
+    margin-left: 50px;
+}
+.icons{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 80px;
+}
+
+.navbar ul{
+    display: flex;
+    background-color: white; 
+    align-items: center;
+    margin-top: 0;
+    
+}
+
+.navbar ul li{
+    list-style: none;
+    padding: 5px 0;
+    margin: 10px;
+    
+}
+
+.navbar ul li a{
+    color: black;
+    text-decoration: none;
+    /* margin-left: 80px; */
+    padding: 15px;
+    text-transform: uppercase;
+    
+}
+
+.navbar ul li a:hover{
+    background-color: #5e9cae;
+    color: #fff;
+}
+
+main {
+    width: 1000px;
+    display: grid;
+    margin: 0 auto;
+    grid-template-areas: 
+        "iabc-banner sidebar"
+        "overview overview"
+        "icm-banner icm-banner";
+    grid-template-rows: 380px 200px 130px; 
+    grid-template-columns: 730px auto; 
+    gap: 20px;
+}
+
+.iabc-banner{
+    grid-area: iabc-banner;
+    margin: 0;
+
+}
+
+.sidebar{
+    grid-area: sidebar;
+    background-color: white;
+    margin: 0;
+    
+}
+
+.sidebar ul li{
+    list-style: none;
+    margin: 10px;
+    font-size: 16px;
+}
+
+.overview {
+    grid-area: overview;
+    background-color: white;
+    gap: 20px;
+}
+
+.icm-banner {
+    grid-area: icm-banner;
+    margin: 20px auto;
+    gap: 20px;
+}
+
+h3{
+    background-color: #5e9cae;
+    padding: 5px;
+    margin: 0;
+    color: #fff;
+    padding-left: 15px;
+}
+footer{
+    padding: 20px;
+}
+
+footer p{
+    line-height: 2;
+    color: white;
+    margin-left: 40px;
+    font-size: 0.9em;
+}
