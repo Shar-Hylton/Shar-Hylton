@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Shar's GitHub stats](https://github-stats-extended.vercel.app/api?username=shar-hylton)](https://github.com/stats-organization/github-stats-extended)
 
 <!--
 **Shar-Hylton/Shar-Hylton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
