@@ -82,6 +82,33 @@ Take a look around. You might find something useful for your next project.
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center" width="100%">
+
+<img
+  src="https://github-stats-extended.vercel.app/api?username=shar-hylton&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff"
+width="50%"
+/>&nbsp;&nbsp;
+<img
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=shar-hylton&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e"
+width="38%"
+/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shar-hylton&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Shar%27s%20GitHub%20Activity" width="100%" />
+
+</div>
+
+---
+
 ## ⚡ Tech Stack
 
 <div align="center">
@@ -165,33 +192,6 @@ Take a look around. You might find something useful for your next project.
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center" width="100%">
-
-<img
-  src="https://github-stats-extended.vercel.app/api?username=shar-hylton&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff"
-width="50%"
-/>&nbsp;&nbsp;
-<img
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=shar-hylton&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e"
-width="38%"
-/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shar-hylton&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Shar%27s%20GitHub%20Activity" width="100%" />
 
 </div>
 
