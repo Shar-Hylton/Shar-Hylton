@@ -1,32 +1,30 @@
 <div align="center">
 
-# 👋 Hey, I'm Shar
+# Hey, I'm Shar 👋
 
-### `DDivrr` • Developer • Builder • Problem Solver
+### `DDivrr` • Software Developer • Builder • Problem Solver
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:111827,100:0f172a&height=180&section=header&text=BUILD.%20BREAK.%20REBUILD.&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:111827,100:0f172a&height=180&section=header&text=BUILD.%20SOLVE.%20CREATE.&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
 </div>
 
----
-
-## `> whoami`
+## About Me
 
 Hey, I'm Shar — also known as **DDivrr**.
 
-I love writing code that stands out, solving problems, and turning ideas into things people can actually use.
+I enjoy writing code that stands out, solving problems, and turning ideas into things people can actually use.
 
-You'll find full-stack applications, APIs, reusable components, experiments, and ideas scattered throughout my repositories.
+You'll find full-stack applications, APIs, reusable components, experiments, and ideas throughout my repositories.
 
-Take a look around.
+Take a look around. You might find something useful for your next project.
 
-If you find something useful, use it, improve it, and build something even better with it.
+> **If you find something useful, use it. Improve it. Build something even better with it.**
 
 ---
 
 <div align="center">
 
-## ⚡ `TECH STACK`
+# ⚡ Tech Stack
 
 ### Frontend
 
@@ -38,41 +36,32 @@ If you find something useful, use it, improve it, and build something even bette
 
 ### Databases & Cloud
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,oracle,aws" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,aws,docker" />
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 
 </div>
 
 ---
 
-## `> system.status`
+## 🚀 What I'm Focused On
 
 ```text
-╭─────────────────────────────────────────────────────────────╮
-│                                                             │
-│   USER        Shar / DDivrr                                │
-│   STATUS      ● ONLINE                                      │
-│   ROLE        Software Developer                            │
-│   FOCUS       Full-Stack • Backend • Web Applications      │
-│                                                             │
-│   CURRENTLY BUILDING                                        │
-│   ├── Full-Stack Applications                              │
-│   ├── REST APIs                                             │
-│   ├── React / Next.js Applications                          │
-│   ├── Backend Systems                                       │
-│   └── Cloud / AWS                                           │
-│                                                             │
-╰─────────────────────────────────────────────────────────────╯
+Full-Stack Applications     ████████████████████
+Backend Development         █████████████████░░░
+REST APIs                   ████████████████████
+Cloud & Deployment          ████████████░░░░░░░
+System Design               ██████████░░░░░░░░░
+AI-Powered Applications     ████████░░░░░░░░░░░
 ```
 
 ---
 
 <div align="center">
 
-## 📊 `GITHUB ANALYTICS`
+# 📊 GitHub Analytics
 
 <img src="https://github-readme-stats.vercel.app/api?username=shar-hylton&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff" width="49%" />
 
@@ -84,7 +73,7 @@ If you find something useful, use it, improve it, and build something even bette
 
 <div align="center">
 
-## 📈 `CONTRIBUTION ACTIVITY`
+# 📈 Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shar-hylton&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Shar%27s%20Development%20Activity" width="100%" />
 
@@ -92,63 +81,65 @@ If you find something useful, use it, improve it, and build something even bette
 
 ---
 
-## `> current.projects`
+# 🧩 Featured Projects
 
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%">
+## 🩺 Doctor Booking
 
-### 🩺 Doctor Booking
+A full-stack appointment booking platform designed around real-world workflows.
 
-A full-stack appointment booking platform.
-
-**Stack**
+**Built with**
 
 `Next.js` `TypeScript` `React` `Tailwind`
 
+[View Project →](#)
+
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📝 Notes API
+## 📝 Notes API
 
-A RESTful notes application with authentication.
+A RESTful notes application with authentication and protected routes.
 
-**Stack**
+**Built with**
 
 `React` `TypeScript` `Express` `MongoDB`
 
-</td>
+[View Project →](#)
 
+</td>
 </tr>
 
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%">
+## ⚡ API Experiments
 
-### ⚡ API Experiments
+Exploring backend development and building APIs with Python.
 
-Building and experimenting with REST APIs.
-
-**Stack**
+**Built with**
 
 `Python` `FastAPI` `Uvicorn`
 
+[View Project →](#)
+
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### ☁️ Cloud
+## ☁️ Cloud & Deployment
 
-Learning how to build and deploy scalable applications.
+Learning how to build, deploy, and scale modern applications.
 
-**Stack**
+**Working with**
 
 `AWS` `Docker` `PostgreSQL`
 
 </td>
-
 </tr>
 </table>
 
@@ -156,39 +147,13 @@ Learning how to build and deploy scalable applications.
 
 <div align="center">
 
-## 🧠 `CURRENTLY LEARNING`
+# 🧠 Currently Learning
 
 <img src="https://skillicons.dev/icons?i=aws,python,django,postgres,docker" />
 
 <br/>
-<br/>
 
-`Backend Architecture` • `Cloud Computing` • `APIs` • `System Design`
-
-</div>
-
----
-
-## `> developer.log`
-
-```text
-[ 2026 ]
-
-01  → Building full-stack applications
-02  → Exploring backend architecture
-03  → Learning cloud infrastructure
-04  → Building APIs with Python
-05  → Improving TypeScript skills
-06  → Experimenting with AI-powered applications
-```
-
----
-
-<div align="center">
-
-## 🐍 `CONTRIBUTION MATRIX`
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+`Backend Architecture` • `Cloud Computing` • `System Design` • `Scalable Applications`
 
 </div>
 
@@ -196,23 +161,32 @@ Learning how to build and deploy scalable applications.
 
 <div align="center">
 
-## `> connect`
+# 🐍 Contribution Matrix
+
+<img src="https://raw.githubusercontent.com/shar-hylton/shar-hylton/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+# Let's Connect
 
 <a href="https://github.com/shar-hylton">
 <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/">
+<!-- Replace this with your actual LinkedIn URL -->
+
+<a href="#">
 <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 
 <br/>
 <br/>
 
-```text
-"Don't just write code.
- Build something worth remembering."
-```
+### *Don't just write code. Build something worth remembering.*
 
 </div>
 
