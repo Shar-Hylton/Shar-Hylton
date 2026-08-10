@@ -68,6 +68,7 @@ AWS Docker PostgreSQL
 
 </td> </tr> </table>
 <div align="center">
+ 
 🧠 CURRENTLY LEARNING
 <img src="https://skillicons.dev/icons?i=aws,python,django,postgres,docker" /> <br/> <br/>
 
@@ -94,84 +95,7 @@ Backend Architecture • Cloud Computing • APIs • System Design
 <br/> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:111827,100:0f172a&height=120&section=footer"/> </div> ```
 One important thing
 
-The snake won't work automatically just because you paste that URL. You need a GitHub Action generating it.
 
-Create:
-
-.github/
-└── workflows/
-    └── snake.yml
-
-with:
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: shar-hylton
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BUILD_DIR: dist
-The result
-
-Your profile will have this visual hierarchy:
-
-             ╭──────────────────────╮
-             │   ANIMATED HEADER     │
-             ╰──────────────────────╯
-
-                  👋 SHAR
-             DDivrr / Developer
-
-             > whoami
-        ┌─────────────────────┐
-        │ PERSONAL INTRO      │
-        └─────────────────────┘
-
-             ⚡ TECH STACK
-        [icons][icons][icons]
-
-             > system.status
-        ┌─────────────────────┐
-        │ ONLINE              │
-        │ CURRENTLY BUILDING  │
-        └─────────────────────┘
-
-             📊 ANALYTICS
-        ┌─────────┬───────────┐
-        │ GitHub  │ Languages │
-        └─────────┴───────────┘
-
-             📈 ACTIVITY
-        ═══════════════════════
-
-             🚀 PROJECTS
-        ┌──────────┬──────────┐
-        │ Project  │ Project  │
-        └──────────┴──────────┘
-
-             🧠 LEARNING
-
-             🐍 CONTRIBUTIONS
-
-             > connect
 Hey, I'm Shar — also known as DDivrr.
 
 I love writing code that stands out, solving problems, and turning ideas
