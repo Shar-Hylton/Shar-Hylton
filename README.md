@@ -108,7 +108,7 @@ Take a look around. You might find something useful for your next project.
 
 ### 🗄️ Data & Cloud
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,oracle,aws" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,aws" />
 
 </td>
 
