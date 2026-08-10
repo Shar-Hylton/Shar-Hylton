@@ -214,7 +214,7 @@ A full-stack appointment booking platform designed around real-world workflows.
 
 <br/>
 
-**[View Project →](#)**
+**[View Project →](https://github.com/Shar-Hylton/medical-app)**
 
 </td>
 
@@ -230,7 +230,7 @@ A RESTful notes application with authentication and protected routes.
 
 <br/>
 
-**[View Project →](#)**
+**[View Project →](https://github.com/Shar-Hylton/react-express-test)**
 
 </td>
 
@@ -250,7 +250,7 @@ Exploring backend development and building APIs with Python.
 
 <br/>
 
-**[View Project →](#)**
+**[View Project →](https://github.com/Shar-Hylton/coding_tutorials)**
 
 </td>
 
