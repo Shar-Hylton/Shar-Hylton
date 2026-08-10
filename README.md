@@ -12,7 +12,7 @@
 
 ## `> whoami`
 
-```text
+
 
 ⚡ TECH STACK
 Frontend
