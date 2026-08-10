@@ -14,7 +14,40 @@
 
 ---
 
+## 🐍 Contribution Matrix
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/shar-hylton/shar-hylton/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/shar-hylton/shar-hylton/output/github-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/shar-hylton/shar-hylton/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
 ## 👨🏾‍💻 About Me
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hey%2C+I%27m+Shar+%E2%80%94+aka+DDivrr.;I+love+building+things.;I+love+solving+problems.;I+love+writing+code+that+stands+out."
+  alt="Typing animation"
+/>
+
+<br/>
 
 Hey, I'm Shar — also known as **DDivrr**.
 
@@ -24,7 +57,28 @@ You'll find full-stack applications, APIs, reusable components, experiments, and
 
 Take a look around. You might find something useful for your next project.
 
+<br/>
+
+<img
+  src="https://img.shields.io/badge/BUILDING-58A6FF?style=flat-square&labelColor=0D1117"
+  alt="Building"
+/>
+&nbsp;
+<img
+  src="https://img.shields.io/badge/LEARNING-3FB950?style=flat-square&labelColor=0D1117"
+  alt="Learning"
+/>
+&nbsp;
+<img
+  src="https://img.shields.io/badge/EXPERIMENTING-A371F7?style=flat-square&labelColor=0D1117"
+  alt="Experimenting"
+/>
+
+<br/><br/>
+
 > **If you find something useful, use it. Improve it. Build something even better with it.**
+
+</div>
 
 ---
 
@@ -86,7 +140,7 @@ Take a look around. You might find something useful for your next project.
 
 **Backend Development**
 
-<img src="https://img.shields.io/badge/██████████████████░░-58A6FF?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/██████████████████░░-3FB950?style=flat-square&labelColor=0D1117" />
 
 **REST APIs**
 
@@ -118,11 +172,16 @@ Take a look around. You might find something useful for your next project.
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<div align="center" width="100%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shar-hylton&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shar-hylton&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" width="41%" />
+<img
+  src="https://github-stats-extended.vercel.app/api?username=shar-hylton&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff"
+width="50%"
+/>&nbsp;&nbsp;
+<img
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=shar-hylton&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e"
+width="38%"
+/>
 
 </div>
 
@@ -230,31 +289,6 @@ Learning how to build, deploy, and scale modern applications.
 
 </div>
 
----
-
-## 🐍 Contribution Matrix
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/shar-hylton/shar-hylton/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/shar-hylton/shar-hylton/output/github-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/shar-hylton/shar-hylton/output/github-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
-</picture>
-
-</div>
-
----
 
 <div align="center">
 
