@@ -275,7 +275,7 @@ Learning how to build, deploy, and scale modern applications.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,python,django,postgres,docker" />
+<img src="https://skillicons.dev/icons?i=aws,python,django,postgres,redis,docker" />
 
 <br/><br/>
 
