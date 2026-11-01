@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:111827,100:0f172a&height=160&section=header&text=Shar%20Hylton&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-# Hey, I'm Shar 👋
+# Hey, I'm Shar 
 
 ### `DDivrr` • Software Developer • Builder • Problem Solver
 
@@ -117,7 +117,7 @@ width="38%"
 <tr>
 <td align="center" width="25%">
 
-### 🎨 Frontend
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css" />
 
@@ -125,7 +125,7 @@ width="38%"
 
 <td align="center" width="25%">
 
-### ⚙️ Backend
+### Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi" />
 
@@ -153,7 +153,7 @@ width="38%"
 
 ---
 
-## 🚀 What I'm Focused On
+## What I'm Focused On
 
 <div align="center">
 
@@ -197,7 +197,7 @@ width="38%"
 
 ---
 
-## 🧩 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
